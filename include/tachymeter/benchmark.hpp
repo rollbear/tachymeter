@@ -22,6 +22,7 @@
 #include <chrono>
 #include <string>
 #include <iostream>
+#include <numeric>
 
 namespace tachymeter
 {
